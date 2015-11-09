@@ -1,1 +1,4 @@
 node_modules
+dist
+*.swp
+src/components/*.js
